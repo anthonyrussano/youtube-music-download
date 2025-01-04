@@ -2,6 +2,7 @@
 
 ### Requirements
 
+- brave browser
 - yt-dlp
 - ffmpeg
 
